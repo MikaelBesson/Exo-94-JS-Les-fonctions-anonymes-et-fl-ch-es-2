@@ -12,13 +12,15 @@
 
 2. A partir du tableau **tableauDeux**
     - Créez un nouveau tableau qui contiendra la valeur de la longueur de chaque élément de ***tableauDeux***.
-    - Créez un nouveau tableau qui contiendra la valeur + la valeur de la longueur de chaque élément de ***tableauDeux*** (Exemple : L'élément valeur1 à une longueur de 7)
+    - Créez un nouveau tableau qui contiendra la valeur + la valeur de la longueur de chaque élément de ***tableauDeux*** (Exemple :
+      L'élément valeur1 à une longueur de 7)
     - Créez un nouveau tableau qui contiendra la valeur de chaque élément de ***tableauDeux*** concaténé avec lui même ( Exemple : valeur1valeur1 )
     - Filtrez **tableauDeux** de manière à récupérer toutes les valeurs ayant une longueur plus > que 2 + 2
     - Filtrez **tableauDeux** de manière à récupérer toutes les valeurs dont la longueur est divisible par 2 ( modulo... ????)
     - Filtrez **tableauDeux** de manière à récupérer toutes les valeurs dont la longueur moins 3 est plus grande que 10
 
-A chaque fois, créez un nouvel élément HTML en JavaScript pour afficher le résultat obtenu ( affichez le tableau avec ou sans boucle , top du top ==> fonction fléchée si possible )
+A chaque fois, créez un nouvel élément HTML en JavaScript pour afficher le résultat obtenu ( affichez le tableau avec ou sans boucle
+, top du top ==> fonction fléchée si possible )
 
 
 ## Bonus
